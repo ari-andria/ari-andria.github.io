@@ -1,0 +1,52 @@
+html {
+    background-color: #fc7eae;
+  }
+  
+  
+  h1 {
+    font-size: 120px;
+    font-family: 'Sacramento', sans-serif;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  h2 {
+    font-size:70px;
+    font-family: 'Sacramento', sans-serif;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #e7b4de;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(134, 132, 132);
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #ef088f;
+    text-shadow: 3px 3px 1px rgb(79, 78, 78);
+  }
+
+  h2 {
+    margin: 0;
+    padding : 20px 0;
+    color : #ef088f;
+    text-shadow: 2px 2px 0.5px rgb(79, 78, 78);
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
